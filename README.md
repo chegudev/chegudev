@@ -8,7 +8,7 @@ I felt like I was going to give up, but now I feel strong and ready to tackle pr
 
 * 🌍  I'm based in Iran,Mazandaran
 * ✉️  You can contact me at [chegudeveloper@gmail.com](mailto:chegudeveloper@gmail.com)
-* 🧠  I'm learning Tailwindcss & JavaScript
+* 🧠  I'm learning to how could act on real figma projects
 * 🤝  I'm open to collaborating on Interesting projects
 
 ### Skills
