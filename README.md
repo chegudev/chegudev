@@ -8,7 +8,7 @@ Sometimes I am very active and sometimes I am less active, but I am always on my
 
 * 🌍  I'm based in Iran,Mazandaran
 * ✉️  You can contact me at [chegudeveloper@gmail.com](mailto:chegudeveloper@gmail.com)
-* 🧠  I'm learning to how could act on real figma projects
+* 🧠  I'm deeply learning javascript
 * 🤝  I'm open to collaborating on Interesting projects
 
 ### Skills
