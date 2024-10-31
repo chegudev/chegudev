@@ -7,6 +7,11 @@ Front-end Web Developer
 Sometimes I am very active and sometimes I am less active, but I am always on my way and continue
 
 
+<video autoplay loop>
+ <source src="./cat-computer.mp4" type="video/mp4">
+</video>
+
+
 * 🌍  I'm based in Iran,Mazandaran
 * 🧠  I'm deeply learning javascript
 * 🤝  I'm open to collaborating on Interesting projects
