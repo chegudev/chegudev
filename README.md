@@ -8,7 +8,7 @@ Sometimes I am very active and sometimes I am less active, but I am always on my
 
 
 <video autoplay loop>
- <source src="./cat-computer.mp4" type="video/mp4">
+ <source src="cat-computer.mp4" type="video/mp4">
 </video>
 
 
