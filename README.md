@@ -6,10 +6,11 @@ Front-end Web Developer
 
 Sometimes I am very active and sometimes I am less active, but I am always on my way and continue
 
+
 * 🌍  I'm based in Iran,Mazandaran
-* ✉️  You can contact me at [chegudeveloper@gmail.com](mailto:chegudeveloper@gmail.com)
 * 🧠  I'm deeply learning javascript
 * 🤝  I'm open to collaborating on Interesting projects
+* ✉️  You can contact me at [chegudeveloper@gmail.com](mailto:chegudeveloper@gmail.com)
 
 ### Skills
 
