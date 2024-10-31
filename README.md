@@ -30,3 +30,6 @@ I felt like I was going to give up, but now I feel strong and ready to tackle pr
 <a href="http://www.github.com/chegudev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chegudev&stroke=ffffff&background=581c87&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/chegudev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chegudev&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=64748b&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+![](https://komarev.com/ghpvc/?username=chegudev&color=blueviolet)
