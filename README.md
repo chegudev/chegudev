@@ -6,13 +6,8 @@ Front-end Web Developer
 
 Sometimes I am very active and sometimes I am less active, but I am always on my way and continue
 
+<img height="300" width="400" alt="GIF" align="right" src="20241101_022736_0001.gif">
 
-<video autoplay loop>
- <source src="cat-computer.mp4" type="video/mp4">
-</video>
-
-
-* 🌍  I'm based in Iran,Mazandaran
 * 🧠  I'm deeply learning javascript
 * 🤝  I'm open to collaborating on Interesting projects
 * ✉️  You can contact me at [chegudeveloper@gmail.com](mailto:chegudeveloper@gmail.com)
