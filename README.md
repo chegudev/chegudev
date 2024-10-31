@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Web Developer
 -----------------------
 
-I felt like I was going to give up, but now I feel strong and ready to tackle projects with everything I've learned and will learn. Your support helping me a lot.
+Sometimes I am very active and sometimes I am less active, but I am always on my way and continue
 
 * 🌍  I'm based in Iran,Mazandaran
 * ✉️  You can contact me at [chegudeveloper@gmail.com](mailto:chegudeveloper@gmail.com)
