@@ -1,12 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zahra
-=============================================================================================================================
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-Front-end Web Developer
------------------------
-
+<h2>Front-end Web Developer<img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/></h2>
 Sometimes I am very active and sometimes I am less active, but I am always on my way and continue
-
-<img height="300" width="400" alt="GIF" align="right" src="20241101_022736_0001.gif">
+<img src="https://github.com/user-attachments/assets/cf3b95d6-7889-47cf-9456-ce0c96c664d5" width="160" align="right" />
 
 * 🧠  I'm deeply learning javascript
 * 🤝  I'm open to collaborating on Interesting projects
@@ -22,6 +18,7 @@ Sometimes I am very active and sometimes I am less active, but I am always on my
 
 <p align="left"> <a href="https://www.github.com/chegudev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/zahraehsani" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -32,5 +29,6 @@ Sometimes I am very active and sometimes I am less active, but I am always on my
 
 <a href="https://github.com/chegudev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chegudev&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=64748b&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 ![](https://komarev.com/ghpvc/?username=chegudev&color=blueviolet)
