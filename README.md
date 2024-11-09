@@ -32,6 +32,8 @@
 ![](https://komarev.com/ghpvc/?username=chegudev&color=blueviolet)
 
 
+[![Chegudev's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chegudev)](https://github.com/chegudev/github-readme-stats)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
