@@ -34,7 +34,9 @@
 
 [![Chegudev's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chegudev)](https://github.com/chegudev/github-readme-stats)
 
+
 <figure><embed src="https://wakatime.com/share/@chegudev/32226452-1fd3-447c-af03-01257bac050d.svg"></embed></figure>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
