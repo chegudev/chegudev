@@ -23,9 +23,6 @@
 
 <a href="http://www.github.com/chegudev"><img src="https://github-readme-stats.vercel.app/api?username=chegudev&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=64748b&bg_color=581c87&hide_border=true&show_icons=true" alt="chegudev's GitHub stats"/></a>
 
-<a href="http://www.github.com/chegudev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chegudev&stroke=ffffff&background=581c87&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
 [![Chegudev's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chegudev)](https://github.com/chegudev/github-readme-stats)
 
 
