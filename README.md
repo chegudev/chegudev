@@ -27,10 +27,6 @@
 
 <a href="https://github.com/chegudev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chegudev&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=64748b&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-![](https://komarev.com/ghpvc/?username=chegudev&color=blueviolet)
-
 
 [![Chegudev's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chegudev)](https://github.com/chegudev/github-readme-stats)
 
